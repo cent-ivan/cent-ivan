@@ -1,7 +1,16 @@
-<h1>### Hi there 👋</h1>
-**Aspiring Software Engineer** 
+# 📡Vincent Ivan Palomata 
+**`🧑‍💻Aspiring Software Engineer`** **`🪴Learner`**
 
-<p>I'm Vincent Ivan from the Philippines</p>
+I'm an aspiring software engineer at the Philippines and a tech enthusiast. Sometimes I do problem-solving with the use of code, and accepts new challenges that I want to solve. I create projects that interests me and likes to explore new stuff.
+
+<p align= "left"> 
+</p>
+
+**Technologies that interests me (and wants to learn in the future):**
+- 🛠️ Game and Simulation Development
+- 🥽 Virtual and Augmented Reality
+- 🦾 IoT and Embedded Systems
+
 <!--
 **cent-ivan/cent-ivan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
