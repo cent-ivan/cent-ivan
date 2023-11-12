@@ -4,6 +4,7 @@
 I'm an aspiring software engineer at the Philippines and a tech enthusiast. Sometimes I do problem-solving with the use of code, and accepts new challenges that I want to solve. I create projects that interests me and likes to explore new stuff.
 
 <p align= "left"> 
+  <img src="![image](https://github.com/cent-ivan/cent-ivan/blob/main/001-python.png)" />
 </p>
 
 **Technologies that interests me (and wants to learn in the future):**
