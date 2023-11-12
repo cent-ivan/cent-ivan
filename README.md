@@ -1,26 +1,28 @@
 # 📡Vincent Ivan Palomata 
-**`🧑‍💻Aspiring Software Engineer`** **`🪴Learner`**
+**`🧑‍💻Software Engineer`** **`🪴Learner`** **`🤝 Team Player`**
 
-I'm an aspiring software engineer at the Philippines and a tech enthusiast. Sometimes I do problem-solving with the use of code, and accepts new challenges that I want to solve. I create projects that interests me and likes to explore new stuff.
+I'm an aspiring software engineer at the Philippines and a tech enthusiast. Sometimes I do problem-solving works with the use of code, and accepts new challenges that I want to solve. I create projects that interests me, do backend development and likes to explore new stuff.
 
-![image]("https://github.com/cent-ivan/cent-ivan/blob/main/001-python.png")
+- 🌱 Currently Learning - **C#, .NET Framework, Django Framework, Database, Unity, Software Development**
+- 🔭 Looking For Collaboration and Mentor
 
-**Technologies that interests me (and wants to learn in the future):**
-- 🛠️ Game and Simulation Development
-- 🥽 Virtual and Augmented Reality
+<hr/>
+
+### 🛠️-  Languages and Tools
+<img align="left" alt="python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img align="left" alt="python" width="40px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+<img align="left" alt="python" width="40px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>
+<img align="left" alt="python" width="40px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>
+<img align="left" alt="python" width="40px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
+<img align="left" alt="python" width="40px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+<img align="left" alt="python" width="40px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
+<img align="left" alt="python" width="40px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
+<img align="left" alt="python" width="40px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
+<br/><br/>
+
+### 💡- Technologies that interests me (and wants to learn in the future):
+- 🎮 Game and Simulation Development
 - 🦾 IoT and Embedded Systems
+- 🛰️ Space Technology
+- 🥽 Virtual and Augmented Reality
 
-<!--
-**cent-ivan/cent-ivan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
