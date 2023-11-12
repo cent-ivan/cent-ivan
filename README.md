@@ -1,7 +1,7 @@
-### Hi there 👋
-**'Aspiring Software Engineer'** 
+<h1>### Hi there 👋</h1>
+**Aspiring Software Engineer** 
 
-<p>Hello</p>
+<p>I'm Vincent Ivan from the Philippines</p>
 <!--
 **cent-ivan/cent-ivan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
