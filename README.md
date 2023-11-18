@@ -3,7 +3,7 @@
 
 I'm an aspiring software engineer at the Philippines and a tech enthusiast. Sometimes I do problem-solving works with the use of code, and accepts new challenges that I want to solve. I create projects that interests me, do backend development and likes to explore new stuff.
 
-- 🌱 Currently Learning - **C#, .NET Framework, Django Framework, Database, Unity, Software Development**
+- 🌱 Currently Learning - **C#, .NET, Django, C/C++, Database, Unity, Software Development**
 - 🔭 Looking For Collaboration and Mentor
 
 <hr/>
