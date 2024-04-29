@@ -3,7 +3,7 @@
 
 I'm an aspiring software engineer at the Philippines and a tech enthusiast. Sometimes I do problem-solving works with the use of code, and accepts new challenges that I want to solve. I create projects that interests me, do backend development and likes to explore new stuff.
 
-- 🌱 Currently Learning - **Flutter, C#, .NET, Django, C/C++, Databases (MySql, MS Sql, MongoDB), Unity, Software Development**
+- 🌱 Currently Learning - **Flutter, .NET, Django, Databases (MySql, MS Sql, MongoDB), Unity, Software Development**
 - 🔭 Looking For Collaboration and Mentor
 
 <hr/>
@@ -15,8 +15,6 @@ I'm an aspiring software engineer at the Philippines and a tech enthusiast. Some
 <img align="left" alt="vs" width="40px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>
 <img align="left" alt="git" width="40px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>
 <img align="left" alt="mysql" width="40px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
-<img align="left" alt="c" width="40px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-<img align="left" alt="cplusplus" width="40px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
 <img align="left" alt="html" width="40px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
 <img align="left" alt="css" width="40px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
 <br/><br/>
