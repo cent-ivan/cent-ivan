@@ -3,7 +3,7 @@
 
 I'm an aspiring software engineer at the Philippines and a tech enthusiast. Sometimes I do problem-solving works with the use of code, and accepts new challenges that I want to solve. I create projects that interests me, do backend development and likes to explore new stuff.
 
-- 🌱 Currently Learning - **Flutter, Django, Flask, Javascript, .NET,  Databases (MySql, MS Sql, MongoDB), Unity, Software Development**
+- 🌱 Currently Learning - **Flutter, Django, Flask, Javascript, ASP.NET Core,  Databases (MySql, MS Sql, MongoDB), Unity, Software Development**
 - 🔭 Looking For Collaboration and Mentor
 
 <hr/>
