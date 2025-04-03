@@ -1,3 +1,5 @@
+<img align="left" alt="git" width="100%" style="padding-right:8px; margin:0;" src="https://github.com/user-attachments/assets/c37d3a88-5570-468a-9bb2-c3ad1a979f27"/> 
+
 # 📡Vincent Ivan Palomata 
 **`🧑‍💻Software Engineer`** **`🪴Learner`** **`🤝 Team Player`**
 
