@@ -29,4 +29,4 @@ I'm an aspiring software engineer at the Philippines and a tech enthusiast. Some
 ## Status:
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cent-ivan&layout=compact&theme=gotham)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cent-ivan&layout=compact&theme=gotham&hide=cmake&langs_count=8)
