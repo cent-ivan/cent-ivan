@@ -10,7 +10,7 @@ I'm an aspiring software engineer at the Philippines and a tech enthusiast. Some
 
 ## 🤝 Connect with me:
 
-- &nbsp;<img align="left" src="https://raw.githubusercontent.com/cent-ivan/cent-ivan/main/images/gmail.png" alt="icon | GMAIL" width="32px"/> <span style="font-size: 45px;">`vpalomata25@gmail.com`</span>  
+- &nbsp;<img align="left" src="https://raw.githubusercontent.com/cent-ivan/cent-ivan/main/images/gmail.png" alt="icon | GMAIL" width="32px"/> <span style="font-size: 45px;">`vipalomata.dev@gmail.com`</span>  
 
 - &nbsp;<img align="left" alt="git" width="38px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/> [<img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn:%20Vincent%20Ivan%20Palomata-0077B5?style=for-the-badge">](https://www.linkedin.com/in/vincent-ivan-palomata-dev-8b9992297)
 
@@ -35,4 +35,4 @@ I'm an aspiring software engineer at the Philippines and a tech enthusiast. Some
 ## Status:
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cent-ivan&show=prs_merged_percentage&show_icons=true&layout=compact&theme=gotham&hide=cmake,objective-c&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cent-ivan&show=prs_merged_percentage&show_icons=true&layout=compact&theme=gotham&hide=cmake,objective-c,swift&langs_count=8)
