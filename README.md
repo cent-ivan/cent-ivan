@@ -14,7 +14,7 @@ I'm an aspiring software engineer at the Philippines and a tech enthusiast. Some
 
 - LinkedIn: [Vincent Ivan Palomata](https://www.linkedin.com/in/vincent-ivan-palomata-dev/)
 
-- Portfolio: [My Portfolio](https://cent-ivan.vercel.app/)
+- [My Portfolio](https://cent-ivan.vercel.app/)
 ## 🛠️ Current Tech Stacks:
 <br>
 
