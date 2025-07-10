@@ -10,11 +10,11 @@ I'm an aspiring software engineer at the Philippines and a tech enthusiast. Some
 
 ## 🤝 Connect with me:
 
-- &nbsp;<img align="left" src="https://raw.githubusercontent.com/cent-ivan/cent-ivan/main/images/gmail.png" alt="icon | GMAIL" width="32px"/> <span style="font-size: 45px;">`vipalomata.dev@gmail.com`</span>  
+- Gmail: `vipalomata.dev@gmail.com` 
 
-- &nbsp;<img align="left" alt="git" width="38px" style="padding-right:8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/> [Vincent Ivan Palomata](https://www.linkedin.com/in/vincent-ivan-palomata-dev/)
+- LinkedIn: [Vincent Ivan Palomata](https://www.linkedin.com/in/vincent-ivan-palomata-dev/)
 
-- &nbsp;<img align="left" src="https://raw.githubusercontent.com/cent-ivan/cent-ivan/main/images/web-link.png" alt="icon | Website" width="40x"/> [My Portfolio](https://cent-ivan.vercel.app/)
+- Portfolio: [My Portfolio](https://cent-ivan.vercel.app/)
 ## 🛠️ Current Tech Stacks:
 <br>
 
