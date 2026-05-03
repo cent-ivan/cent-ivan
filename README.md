@@ -10,26 +10,30 @@ I'm an aspiring software engineer at the Philippines and a tech enthusiast. Some
 
 ## 🤝 Connect with me:
 
-- Gmail: `vipalomata.dev@gmail.com` 
+<img alt="Static Badge" src="https://img.shields.io/badge/Gmail-vipalomata.dev%40gmail.com-blue?logo=gmail">
 
-- LinkedIn: [Vincent Ivan Palomata](https://www.linkedin.com/in/vincent-ivan-palomata-dev/)
+<a href="https://www.linkedin.com/in/vincent-ivan-palomata-dev/">
+ <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-Vincent_Ivan_Palomata-blue">
+</a>
 
-- [My Portfolio](https://cent-ivan.vercel.app/)
+<a href="https://cent-ivan.vercel.app/">
+ <img alt="Static Badge" src="https://img.shields.io/badge/Portfolio-cent--ivan.vercel.app-%238A00C4?logo=semanticweb">
+</a>
+
 ## 🛠️ Current Tech Stacks:
-<br>
 
-&nbsp; [![My Skills](https://skillicons.dev/icons?i=html,tailwind,react&perline=4&theme=dark)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<br> ![Static Badge](https://img.shields.io/badge/HTML5-f48d60) ![Static Badge](https://img.shields.io/badge/Tailwind%20CSS-c3e7f5) ![Static Badge](https://img.shields.io/badge/React.js-42b883) 
+### Languages
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,python,dart,cs&perline=6&theme=dark)](https://skillicons.dev)
 
-<br> [![My Skills](https://skillicons.dev/icons?i=python,flask,django,fastapi&perline=4&theme=dark)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=cs,dotnet&perline=4&theme=dark)](https://skillicons.dev)
-<br> &nbsp; ![Static Badge](https://img.shields.io/badge/Python-ffd145) ![Static Badge](https://img.shields.io/badge/Flask-00bfff) ![Static Badge](https://img.shields.io/badge/Django-092e20) ![Static Badge](https://img.shields.io/badge/Fast%20API-00bebe) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Static Badge](https://img.shields.io/badge/C%23%20(WinForms%2C%20ASP.NET)-9179E4) &nbsp;&nbsp;&nbsp;&nbsp;
+### Frameworks:
+[![My Skills](https://skillicons.dev/icons?i=tailwind,react,flask,django,fastapi,dotnet,flutter&perline=10&theme=dark)](https://skillicons.dev)
 
-<br> [![My Skills](https://skillicons.dev/icons?i=flutter,firebase&perline=4&theme=dark)](https://skillicons.dev)  
- ![Static Badge](https://img.shields.io/badge/Flutter-027DFD)  ![Static Badge](https://img.shields.io/badge/Firebase-FFA611)
 
-#### Databases and Tools:
-&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb&perline=4&theme=dark)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=git&perline=4&theme=dark)](https://skillicons.dev)  
-![Static Badge](https://img.shields.io/badge/PostgreSQL-008bb9) ![Static Badge](https://img.shields.io/badge/MySQL-0064a5) ![Static Badge](https://img.shields.io/badge/MongoDB-3FA037) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Static Badge](https://img.shields.io/badge/Git-F1502F) 
+### Other Tools and Technology:
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,supabase,firebase,redis&perline=10&theme=dark)](https://skillicons.dev)
+<br><br>
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker,bash,ubuntu,postman&perline=5&theme=dark)](https://skillicons.dev)  
+
 
 ## Status:
 <br>
