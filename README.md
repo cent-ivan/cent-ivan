@@ -35,7 +35,6 @@ I'm an aspiring software engineer at the Philippines and a tech enthusiast. Some
 [![My Skills](https://skillicons.dev/icons?i=git,github,docker,bash,ubuntu,postman&perline=5&theme=dark)](https://skillicons.dev)  
 
 
-## Status:
-<br>
+## Stats:
+![Cent's GitHub stats](https://github-readme-stats.vercel.app/api?username=cent-ivan&show_icons=true&layout=compact&theme=gotham&hide=cmake,objective-c,swift&langs_count=8)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cent-ivan&show=prs_merged_percentage&show_icons=true&layout=compact&theme=gotham&hide=cmake,objective-c,swift&langs_count=8)
